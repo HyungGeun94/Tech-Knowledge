@@ -32,7 +32,7 @@
 ## 📒 Language  
 
 - ### 📖 JAVA
-    * [자바란?](./docs/Java/Java1.md)
+    * [자바란?](./docs/Java/java1.md)
 
     
 - ### 📖 JAVASCRIPT  

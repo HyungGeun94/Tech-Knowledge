@@ -5,7 +5,7 @@
 **Collaborators** : [HyungGeunJeon](https://github.com/HyungGeun94), [JongHoKim](https://github.com/KimJongHoss), [SaeByeolIm](https://github.com/bbbyeol01)
 <br>
 
-**작성방법**   
+**작성방법**   ( local dev에 pull 받고 add/commit 해서 origin dev에 올려서 pr하면 구성원 중 1명이 확인 후 pr해주기 ) 
 
 
 1. 원하는 경로에 디렉토리 생성(ex StudyCS) 

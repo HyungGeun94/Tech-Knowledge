@@ -28,12 +28,19 @@
 
 6. 결국에 면접에서 질의 응답이 있을거같은 지식이기 때문에 discord를 통해 화면공유도 해서 발표하는 형식으로 주고 받는방향으로 가는게 좋을듯
 
+## 💡 markdown 
+
+
+
+* [markdown이란?](./docs/CS/md.md)
+
 
 ## 📒 Language  
 
 - ### 📖 JAVA
-    * [자바란?](./docs/Java/java1.md)
     * [객체지향이란?](./docs/Java/java_objectOriented.md)
+    * [자바심화면접질문](./docs/Java/javaInterview.md)
+
 
     
 - ### 📖 JAVASCRIPT  

@@ -6,5 +6,3 @@ docker - hub : 클라우드 서버에(컨테이너를 관리하는 서버) 업�
 docker run -d -p 80:80 docker/getting-started
 docker pull oepnjdk
 docker images
-
-# md란 ?? 

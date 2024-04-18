@@ -40,10 +40,14 @@
 - ### 📖 JAVA
     * [객체지향이란?](./docs/Java/java_objectOriented.md)
     * [자바심화면접질문](./docs/Java/javaInterview.md)
+    * [가비지컬렉션이란?](./docs/Java/Garbage_Collection.md)
+    * [메모리란?](./docs/Java/Memory.md)
+
 
 
     
-- ### 📖 JAVASCRIPT  
+- ### 📖 Spring
+    * [스프링 프레임워크란?](./docs/Spring/springInterview.md)
 
 
 ## 📕 Data Structure
@@ -62,7 +66,9 @@
 
 ## 📙 Network
 
-## 📓 OS
+## 📓 CS
+   * [코드 리팩토링이란 ?](./docs/CS/codeRefactoring.md)
+
 
 
 ## 📔 Design Pattern  
